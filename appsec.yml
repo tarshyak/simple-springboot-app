@@ -1,5 +1,5 @@
 version: 0.0
-os: linux
+os: ubuntu
 files:
   - source: ./my-app-1.0-SNAPSHOT.jar
     destination: /tmp
